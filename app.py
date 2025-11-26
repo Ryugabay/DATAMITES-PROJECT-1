@@ -1,4 +1,4 @@
-num = int(input ("enter a number"))
+num = int(input ("enter a even number"))
 if a % 2 == 0:
       print("even number")
 else:
